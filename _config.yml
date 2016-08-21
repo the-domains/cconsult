@@ -6,9 +6,9 @@ color:
   saturation: 0.5381666920147836
   rhythmicContrast: 0.10542596015147865
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: CConsult
