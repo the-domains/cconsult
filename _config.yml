@@ -1,0 +1,14 @@
+layout_spectrum: 0.42440021876245737
+typography_spectrum: 0.0410087751224637
+color:
+  brandStrength: 0.35336901899427176
+  lightness: 0.14683874347247183
+  saturation: 0.5381666920147836
+  rhythmicContrast: 0.10542596015147865
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: CConsult
